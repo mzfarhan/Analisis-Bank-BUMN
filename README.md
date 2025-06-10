@@ -48,7 +48,7 @@ Berikut adalah tiga visualisasi utama dari proyek ini yang merangkum temuan pali
 
 #### 3. Studi Kasus Tren BRIS.JK: Sinyal Kritis Terungkap
 *Analisis mendalam pada BRIS menunjukkan sinyal 'Death Cross' pada April 2022 sebagai titik balik kritis, yang secara akurat menandai dimulainya tren turun jangka panjang. Ini membuktikan kegunaan analisis teknikal untuk manajemen risiko.*
-![Studi Kasus BRIS](studi_kasus_BSI.jpg)
+![Studi Kasus BRIS](images/studi_kasus_BSI.jpg)
 
 ---
 
