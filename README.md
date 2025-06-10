@@ -53,7 +53,7 @@ Berikut adalah tiga visualisasi utama dari proyek ini yang merangkum temuan pali
 ---
 
 ##  Notebook
-Untuk melihat proses analisis lengkap, mulai dari pembersihan data, *feature engineering*, hingga visualisasi, silakan lihat file [**Bank_BUMN.ipynb**](Bank_BUMN.ipynb).
+Untuk melihat proses analisis lengkap, mulai dari pembersihan data, *feature engineering*, hingga visualisasi, silakan lihat file [**Analisis Bank BUMN**](Analisis_Bank_BUMN.ipynb).
 
 ---
 
