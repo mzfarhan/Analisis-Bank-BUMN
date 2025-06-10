@@ -41,7 +41,7 @@ Berikut adalah beberapa temuan paling signifikan dari analisis ini:
 Berikut adalah tiga visualisasi utama dari proyek ini yang merangkum temuan paling penting.
 
 #### 1. Perbandingan Kinerja: Kisah Dominasi Satu Saham
-*Grafik ini secara dramatis menunjukkan dominasi absolut BRIS.JK yang meroket dengan pertumbuhan lebih dari 800%, menciptakan jarak yang sangat jauh dengan saham lainnya.*
+*Grafik ini secara dramatis menunjukkan dominasi absolut BRIS.JK yang meroket dengan pertumbuhan lebih dari 700%, menciptakan jarak yang sangat jauh dengan saham lainnya.*
 ![Perbandingan Kinerja](images/kinerja_saham.jpg)
 
 #### 2. Peta Strategis Risk vs. Return
