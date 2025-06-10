@@ -40,15 +40,15 @@ Berikut adalah tiga visualisasi utama dari proyek ini yang merangkum temuan pali
 
 #### 1. Perbandingan Kinerja: Sebuah Kisah Pembalikan Tren
 *Grafik ini menunjukkan bagaimana BBNI mengambil alih posisi sebagai pemimpin pertumbuhan dalam periode terakhir, menyalip BRIS yang mengalami koreksi tajam setelah periode pertumbuhan eksplosifnya.*
-![Perbandingan Kinerja](images/Perbandingan Kinerja Interaktif Saham Bank BUMN.jpg)
+![Perbandingan Kinerja](images/kinerja_saham.jpg)
 
 #### 2. Peta Strategis Risk vs. Return
 *Setiap saham dipetakan ke dalam profil risiko yang unik. Visualisasi ini membantu stakeholder memahami saham mana yang cocok untuk strategi agresif (BBNI) dan mana yang lebih konservatif (BBRI, BMRI).*
-![Risk vs Return](images/Peta Strategis Risk vs. Return Saham Bank BUMN.png)
+![Risk vs Return](images/risk_vs_return.png)
 
 #### 3. Studi Kasus Tren BRIS.JK: Sinyal Kritis Terungkap
 *Analisis mendalam pada BRIS menunjukkan sinyal 'Death Cross' pada April 2022 sebagai titik balik kritis, yang secara akurat menandai dimulainya tren turun jangka panjang. Ini membuktikan kegunaan analisis teknikal untuk manajemen risiko.*
-![Studi Kasus BRIS](images/Analisis Tren & Evaluasi Sinyal Crossover untuk Bank Syariah Indonesia.jpg)
+![Studi Kasus BRIS](studi_kasus_BSI.jpg)
 
 ---
 
